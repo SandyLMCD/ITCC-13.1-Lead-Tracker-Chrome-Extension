@@ -26,6 +26,17 @@ button {
   border-radius: 5px;
 }
 
+#delete-btn {
+  background-color: white;
+  color: #ffac39;
+  border: 1px solid #ffac39;
+}
+
+#delete-btn:hover {
+  background-color: #ffac39;
+  color: white;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
